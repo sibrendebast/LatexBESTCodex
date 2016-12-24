@@ -1,0 +1,728 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.11.7)  24 DEC 2016 18:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**BEST_codex.tex
+(/home/sibren/Documents/BEST/Codex-latex/BEST_codex.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen112
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/home/sibren/Documents/BEST/Codex-latex/BEST_codex.aux)
+\openout1 = `BEST_codex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen121
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen122
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+<frontpicture.png, id=1, 449.68pt x 393.47pt>
+File: frontpicture.png Graphic file (type png)
+ <use frontpicture.png>
+Package pdftex.def Info: frontpicture.png used on input line 20.
+(pdftex.def)             Requested size: 195.10146pt x 170.71652pt.
+
+<bestleuvenlogo.png, id=3, 580.569pt x 293.898pt>
+File: bestleuvenlogo.png Graphic file (type png)
+ <use bestleuvenlogo.png>
+Package pdftex.def Info: bestleuvenlogo.png used on input line 23.
+(pdftex.def)             Requested size: 84.30879pt x 42.67912pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sibren/Documents/BES
+T/Codex-latex/frontpicture.png> </home/sibren/Documents/BEST/Codex-latex/bestle
+uvenlogo.png>] (/home/sibren/Documents/BEST/Codex-latex/BEST_codex.toc
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `BEST_codex.toc'.
+
+ [1]
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ¦ in font cmbx12!
+ [2] [3]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 130--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--150
+
+ []
+
+
+Overfull \hbox (5.06972pt too wide) in paragraph at lines 157--171
+\OT1/cmr/m/n/10 Gaudeamus ig-i-tur, Ju-venes dum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--171
+
+ []
+
+
+Overfull \hbox (3.44469pt too wide) in paragraph at lines 157--171
+\OT1/cmr/m/n/10 Ubi sunt qui ante nos, In mundo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--171
+
+ []
+
+
+Overfull \hbox (0.27797pt too wide) in paragraph at lines 157--171
+\OT1/cmr/m/n/10 Pereat tris-ti-tia, Pere-ant os-ores,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--171
+
+ []
+
+[7
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Overfull \hbox (7.75018pt too wide) in paragraph at lines 178--214
+\OT1/cmr/m/n/10 And her shoes were num-ber nine; 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Overfull \hbox (9.41692pt too wide) in paragraph at lines 178--214
+\OT1/cmr/m/n/10 In my dreams she still doth haunt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--214
+
+ []
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+[8]
+Overfull \hbox (3.16687pt too wide) in paragraph at lines 232--236
+[]\OT1/cmr/m/n/10 What shall we do with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no ™ in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--275
+
+ []
+
+
+Overfull \hbox (13.19363pt too wide) in paragraph at lines 251--275
+\OT1/cmr/m/n/10 I says, I'm com-ing from the South, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--275
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Overfull \hbox (8.06973pt too wide) in paragraph at lines 283--307
+\OT1/cmr/m/n/10 Glass to mouth, glass to mouth... 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Overfull \hbox (8.13914pt too wide) in paragraph at lines 283--307
+\OT1/cmr/m/n/10 Put glass down, put glass down... 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Overfull \hbox (0.88919pt too wide) in paragraph at lines 283--307
+\OT1/cmr/m/n/10 Hand from ta-ble, hand from ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--307
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no ™ in font cmti10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Overfull \hbox (7.02806pt too wide) in paragraph at lines 314--335
+\OT1/cmr/m/n/10 Should auld ac-quain-tance be for-
+ []
+
+
+Overfull \hbox (7.02806pt too wide) in paragraph at lines 314--335
+\OT1/cmr/m/n/10 Should auld ac-quain-tance be for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--335
+
+ []
+
+
+Overfull \hbox (1.187pt too wide) in paragraph at lines 314--335
+\OT1/cmr/m/it/10 We'll take a cup o kind-ness yet, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--335
+
+ []
+
+
+Overfull \hbox (4.61131pt too wide) in paragraph at lines 314--335
+\OT1/cmr/m/n/10 We twa hae run about the braes, 
+ []
+
+
+Overfull \hbox (12.47246pt too wide) in paragraph at lines 314--335
+\OT1/cmr/m/n/10 But we've wan-der'd mony a weary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--335
+
+ []
+
+[10]
+Overfull \hbox (2.36134pt too wide) in paragraph at lines 343--361
+\OT1/cmr/m/n/10 Wir trinken einen Hal-ben in der
+ []
+
+
+Overfull \hbox (3.25023pt too wide) in paragraph at lines 343--361
+\OT1/cmr/m/n/10 Warum soll-ten wir nicht trinken
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--361
+
+ []
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Overfull \hbox (2.63918pt too wide) in paragraph at lines 367--390
+\OT1/cmr/m/n/10 J'en boirais jusqu'a mon plaisir. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Overfull \hbox (3.38914pt too wide) in paragraph at lines 367--390
+\OT1/cmr/m/n/10 Jen boirai cinq ou six bouteilles, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Overfull \hbox (21.52803pt too wide) in paragraph at lines 367--390
+\OT1/cmr/m/n/10 Si je meurs, je veux qu'on m'enterre, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--390
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--438
+
+ []
+
+
+Overfull \hbox (1.27803pt too wide) in paragraph at lines 396--438
+\OT1/cmr/m/n/10 And the land-lady's eyes opened 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--438
+
+ []
+
+[11] [12] (/home/sibren/Documents/BEST/Codex-latex/BEST_codex.aux) ) 
+Here is how much of TeX's memory you used:
+ 3523 strings out of 493013
+ 52391 string characters out of 6135682
+ 115033 words of memory out of 5000000
+ 7031 multiletter control sequences out of 15000+600000
+ 8411 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,7n,38p,422b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on /home/sibren/Documents/BEST/Codex-latex/BEST_codex.pdf (13 pa
+ges, 380939 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
