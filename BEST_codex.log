@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.11.7)  24 DEC 2016 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.11.7)  25 DEC 2016 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **BEST_codex.tex
-(/home/sibren/Documents/BEST/Codex-latex/BEST_codex.tex
+(/home/sibren/Documents/BEST/LatexBESTCodex/BEST_codex.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -144,22 +144,62 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(/home/sibren/Documents/BEST/Codex-latex/BEST_codex.aux)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/home/sibren/Documents/BEST/LatexBESTCodex/BEST_codex.aux)
 \openout1 = `BEST_codex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 15.
 
+
+(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count103
@@ -228,23 +268,54 @@ Package caption Info: End \AtBeginDocument code.
 <frontpicture.png, id=1, 449.68pt x 393.47pt>
 File: frontpicture.png Graphic file (type png)
  <use frontpicture.png>
-Package pdftex.def Info: frontpicture.png used on input line 20.
-(pdftex.def)             Requested size: 195.10146pt x 170.71652pt.
+Package pdftex.def Info: frontpicture.png used on input line 24.
+(pdftex.def)             Requested size: 162.58455pt x 142.26378pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <17.28> not available
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 27.
 
 <bestleuvenlogo.png, id=3, 580.569pt x 293.898pt>
 File: bestleuvenlogo.png Graphic file (type png)
  <use bestleuvenlogo.png>
-Package pdftex.def Info: bestleuvenlogo.png used on input line 23.
+Package pdftex.def Info: bestleuvenlogo.png used on input line 29.
 (pdftex.def)             Requested size: 84.30879pt x 42.67912pt.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/sibren/Documents/BES
-T/Codex-latex/frontpicture.png> </home/sibren/Documents/BEST/Codex-latex/bestle
-uvenlogo.png>] (/home/sibren/Documents/BEST/Codex-latex/BEST_codex.toc
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¦ in font cmr10!
+T/LatexBESTCodex/frontpicture.png> </home/sibren/Documents/BEST/LatexBESTCodex/
+bestleuvenlogo.png>]
+(/home/sibren/Documents/BEST/LatexBESTCodex/BEST_codex.toc
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 2.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 2.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 2.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -258,76 +329,53 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `BEST_codex.toc'.
 
- [1]
-Missing character: There is no â in font cmbx12!
-Missing character: There is no € in font cmbx12!
-Missing character: There is no ¦ in font cmbx12!
- [2] [3]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¦ in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+ [1] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 130--150
+Underfull \hbox (badness 10000) in paragraph at lines 136--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--150
+Underfull \hbox (badness 10000) in paragraph at lines 136--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--150
+Underfull \hbox (badness 10000) in paragraph at lines 136--156
 
  []
 
 
-Overfull \hbox (5.06972pt too wide) in paragraph at lines 157--171
-\OT1/cmr/m/n/10 Gaudeamus ig-i-tur, Ju-venes dum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--171
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
 
  []
 
 
-Overfull \hbox (3.44469pt too wide) in paragraph at lines 157--171
-\OT1/cmr/m/n/10 Ubi sunt qui ante nos, In mundo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--171
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
 
  []
 
 
-Overfull \hbox (0.27797pt too wide) in paragraph at lines 157--171
-\OT1/cmr/m/n/10 Pereat tris-ti-tia, Pere-ant os-ores,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--171
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
 
  []
 
@@ -335,394 +383,375 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--171
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 194.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Overfull \hbox (7.75018pt too wide) in paragraph at lines 178--214
-\OT1/cmr/m/n/10 And her shoes were num-ber nine; 
+Overfull \hbox (1.08383pt too wide) in paragraph at lines 184--220
+\OT1/lmss/m/n/10 And her shoes were num-ber nine; 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Overfull \hbox (9.41692pt too wide) in paragraph at lines 178--214
-\OT1/cmr/m/n/10 In my dreams she still doth haunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--214
+Overfull \hbox (1.36111pt too wide) in paragraph at lines 184--220
+\OT1/lmss/m/n/10 In my dreams she still doth haunt
+ []
+
+
+Overfull \hbox (8.62515pt too wide) in paragraph at lines 184--220
+\OT1/lmss/m/n/10 Robed in gar-ments soaked in brine, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
 
  []
 
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¼ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¼ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--222
+Underfull \hbox (badness 10000) in paragraph at lines 184--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--228
 
  []
 
 [8]
-Overfull \hbox (3.16687pt too wide) in paragraph at lines 232--236
-[]\OT1/cmr/m/n/10 What shall we do with the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--236
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--275
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--275
+Underfull \hbox (badness 10000) in paragraph at lines 257--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--275
+Underfull \hbox (badness 10000) in paragraph at lines 257--281
 
  []
 
 
-Overfull \hbox (13.19363pt too wide) in paragraph at lines 251--275
-\OT1/cmr/m/n/10 I says, I'm com-ing from the South, 
+Underfull \hbox (badness 10000) in paragraph at lines 257--281
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--275
+Overfull \hbox (6.2765pt too wide) in paragraph at lines 257--281
+\OT1/lmss/m/n/10 I says, I'm com-ing from the South, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--281
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Overfull \hbox (8.06973pt too wide) in paragraph at lines 283--307
-\OT1/cmr/m/n/10 Glass to mouth, glass to mouth... 
+Overfull \hbox (1.8333pt too wide) in paragraph at lines 289--313
+\OT1/lmss/m/n/10 Glass to mouth, glass to mouth... 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
-
- []
-
-
-Overfull \hbox (8.13914pt too wide) in paragraph at lines 283--307
-\OT1/cmr/m/n/10 Put glass down, put glass down... 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Overfull \hbox (2.05472pt too wide) in paragraph at lines 289--313
+\OT1/lmss/m/n/10 Put glass down, put glass down... 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Overfull \hbox (0.88919pt too wide) in paragraph at lines 283--307
-\OT1/cmr/m/n/10 Hand from ta-ble, hand from ta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--307
-
- []
-
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-
-Overfull \hbox (7.02806pt too wide) in paragraph at lines 314--335
-\OT1/cmr/m/n/10 Should auld ac-quain-tance be for-
- []
-
-
-Overfull \hbox (7.02806pt too wide) in paragraph at lines 314--335
-\OT1/cmr/m/n/10 Should auld ac-quain-tance be for-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--335
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--335
+Underfull \hbox (badness 10000) in paragraph at lines 289--313
 
  []
 
 
-Overfull \hbox (1.187pt too wide) in paragraph at lines 314--335
-\OT1/cmr/m/it/10 We'll take a cup o kind-ness yet, 
+Overfull \hbox (0.69458pt too wide) in paragraph at lines 320--341
+\OT1/lmss/m/n/10 Should auld ac-quain-tance be for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--335
-
+Overfull \hbox (0.69458pt too wide) in paragraph at lines 320--341
+\OT1/lmss/m/n/10 Should auld ac-quain-tance be for-
  []
 
 
-Overfull \hbox (4.61131pt too wide) in paragraph at lines 314--335
-\OT1/cmr/m/n/10 We twa hae run about the braes, 
- []
-
-
-Overfull \hbox (12.47246pt too wide) in paragraph at lines 314--335
-\OT1/cmr/m/n/10 But we've wan-der'd mony a weary
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--335
+Underfull \hbox (badness 10000) in paragraph at lines 320--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--335
+Underfull \hbox (badness 10000) in paragraph at lines 320--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--341
+
+ []
+
+
+Overfull \hbox (4.97104pt too wide) in paragraph at lines 320--341
+\OT1/lmss/m/n/10 But we've wan-der'd mony a weary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--341
+
+ []
+
+
+Overfull \hbox (3.02608pt too wide) in paragraph at lines 320--341
+\OT1/lmss/m/n/10 We twa hae paidl'd iâ€™ the burn 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--341
 
  []
 
 [10]
-Overfull \hbox (2.36134pt too wide) in paragraph at lines 343--361
-\OT1/cmr/m/n/10 Wir trinken einen Hal-ben in der
- []
-
-
-Overfull \hbox (3.25023pt too wide) in paragraph at lines 343--361
-\OT1/cmr/m/n/10 Warum soll-ten wir nicht trinken
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--361
+Underfull \hbox (badness 10000) in paragraph at lines 349--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--361
+Underfull \hbox (badness 10000) in paragraph at lines 349--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--361
-
- []
-
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¹ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ª in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no   in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Underfull \hbox (badness 10000) in paragraph at lines 349--367
 
  []
 
 
-Overfull \hbox (2.63918pt too wide) in paragraph at lines 367--390
-\OT1/cmr/m/n/10 J'en boirais jusqu'a mon plaisir. 
+Overfull \hbox (23.99144pt too wide) in paragraph at lines 370--370
+[]\OT1/lmss/bx/n/12 Chevalliers de la Ta-ble Ronde 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
-
- []
-
-
-Overfull \hbox (3.38914pt too wide) in paragraph at lines 367--390
-\OT1/cmr/m/n/10 Jen boirai cinq ou six bouteilles, 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Overfull \hbox (21.52803pt too wide) in paragraph at lines 367--390
-\OT1/cmr/m/n/10 Si je meurs, je veux qu'on m'enterre, 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Overfull \hbox (14.86127pt too wide) in paragraph at lines 373--396
+\OT1/lmss/m/n/10 Si je meurs, je veux qu'on m'enterre, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--390
+Overfull \hbox (1.19505pt too wide) in paragraph at lines 373--396
+\OT1/lmss/m/n/10 Les deux pieds con-tre la mu-raille, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--438
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--438
+Underfull \hbox (badness 10000) in paragraph at lines 373--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--438
+Underfull \hbox (badness 10000) in paragraph at lines 402--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--438
+Underfull \hbox (badness 10000) in paragraph at lines 402--444
 
  []
 
 
-Overfull \hbox (1.27803pt too wide) in paragraph at lines 396--438
-\OT1/cmr/m/n/10 And the land-lady's eyes opened 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--438
+Underfull \hbox (badness 10000) in paragraph at lines 402--444
 
  []
 
-[11] [12] (/home/sibren/Documents/BEST/Codex-latex/BEST_codex.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--444
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+
+ []
+
+
+Overfull \hbox (0.5277pt too wide) in paragraph at lines 453--481
+\OT1/lmss/m/n/10 The wee birdies sing and the wild
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+
+ []
+
+<drinker.png, id=54, 231.264pt x 453.695pt>
+File: drinker.png Graphic file (type png)
+ <use drinker.png>
+Package pdftex.def Info: drinker.png used on input line 486.
+(pdftex.def)             Requested size: 86.44919pt x 169.59523pt.
+ [13 </home/sibren/Documents/BEST/LatexBESTCodex/drinker.png>]
+(/home/sibren/Documents/BEST/LatexBESTCodex/BEST_codex.aux) ) 
 Here is how much of TeX's memory you used:
- 3523 strings out of 493013
- 52391 string characters out of 6135682
- 115033 words of memory out of 5000000
- 7031 multiletter control sequences out of 15000+600000
- 8411 words of font info for 32 fonts, out of 8000000 for 9000
+ 3660 strings out of 493013
+ 55167 string characters out of 6135682
+ 115210 words of memory out of 5000000
+ 7138 multiletter control sequences out of 15000+600000
+ 51368 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,38p,422b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti10.pfb>
-Output written on /home/sibren/Documents/BEST/Codex-latex/BEST_codex.pdf (13 pa
-ges, 380939 bytes).
+ 40i,7n,39p,423b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/
+fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc
+}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/share/texmf/fonts/type1
+/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
+Output written on /home/sibren/Documents/BEST/LatexBESTCodex/BEST_codex.pdf (14
+ pages, 562569 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 \contentsline {section}{\numberline {1}The Rules}{2}
-\contentsline {subsection}{Where it all starts…}{2}
+\contentsline {subsection}{Where it all starts...}{2}
 \contentsline {subsection}{Verbum}{2}
 \contentsline {subsection}{Silentium}{3}
 \contentsline {subsection}{Standing and Sitting}{3}
@@ -19,3 +19,4 @@
 \contentsline {subsection}{Der Pappenheimer}{11}
 \contentsline {subsection}{Chevalliers de la Table Ronde}{11}
 \contentsline {subsection}{The Wild Rover}{12}
+\contentsline {subsection}{Loch Lomon'}{13}
