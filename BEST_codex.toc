@@ -1,23 +1,23 @@
 \contentsline {section}{\numberline {1}The Rules}{2}
 \contentsline {subsection}{Where it all starts...}{2}
 \contentsline {subsection}{Verbum}{2}
-\contentsline {subsection}{Silentium}{3}
-\contentsline {subsection}{Standing and Sitting}{3}
+\contentsline {subsection}{Silentium}{2}
+\contentsline {subsection}{Standing and Sitting}{2}
 \contentsline {subsection}{Tempus}{3}
-\contentsline {subsection}{Singing}{4}
-\contentsline {subsection}{Drinking}{4}
-\contentsline {subsection}{Punishments}{6}
-\contentsline {section}{\numberline {2}Songs}{7}
-\contentsline {subsection}{Io Vivat}{7}
-\contentsline {subsection}{Gaudeamus Igitur}{7}
-\contentsline {subsection}{Clementine}{8}
-\contentsline {subsection}{Ein Prosit}{8}
-\contentsline {subsection}{Drunken Sailor}{9}
-\contentsline {subsection}{Oh Susanna}{9}
-\contentsline {subsection}{Dis In Lucht}{10}
-\contentsline {subsection}{Auld Lang Syne}{10}
-\contentsline {subsection}{Der Pappenheimer}{11}
-\contentsline {subsection}{Chevalliers de la Table Ronde}{11}
-\contentsline {subsection}{The Wild Rover}{12}
-\contentsline {subsection}{Loch Lomon'}{13}
-\contentsline {subsection}{Hey Jude}{14}
+\contentsline {subsection}{Singing}{3}
+\contentsline {subsection}{Drinking}{3}
+\contentsline {subsection}{Punishments}{4}
+\contentsline {section}{\numberline {2}Songs}{5}
+\contentsline {subsection}{Io Vivat}{5}
+\contentsline {subsection}{Gaudeamus Igitur}{5}
+\contentsline {subsection}{Clementine}{6}
+\contentsline {subsection}{Ein Prosit}{6}
+\contentsline {subsection}{Drunken Sailor}{7}
+\contentsline {subsection}{Oh Susanna}{7}
+\contentsline {subsection}{Dis In Lucht}{8}
+\contentsline {subsection}{Auld Lang Syne}{8}
+\contentsline {subsection}{Der Pappenheimer}{9}
+\contentsline {subsection}{Chevalliers de la Table Ronde}{9}
+\contentsline {subsection}{The Wild Rover}{10}
+\contentsline {subsection}{Loch Lomon'}{10}
+\contentsline {subsection}{Hey Jude}{11}
